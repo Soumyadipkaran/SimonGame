@@ -17,7 +17,7 @@ The Simon Game is a classic memory challenge where players replicate an ever-gro
 ---
 
 ## Game Screen
-<img src="https://github.com/your-username/your-repository/raw/main/issue-images/Screenshot%20(1).png" />
+<img src="https://github.com/user-attachments/assets/b9717d06-6c16-4384-b144-8a20623290ed" />
 
 
 
