@@ -1,0 +1,85 @@
+body{
+    text-align: center;
+    background-color: rgb(91, 250, 242);
+}
+
+h1{
+    display: inline-block;
+    margin: 0;
+    padding: 0 5px;
+    font-size: 3.5em;
+}
+#r{
+    color:rgb(201, 14, 76);
+    background-color: rgb(122, 249, 133);
+    border: 3px solid black;
+    border-radius:20%;
+}
+#g{
+    color:rgb(85, 209, 32);
+    background-color: rgb(114, 65, 227);
+    border: 3px solid black;
+    border-radius:20%;
+}
+#y{
+    color:rgb(238, 242, 28);
+    background-color: rgb(1, 246, 136);
+    border: 3px solid black;
+    border-radius:20%;
+}
+#p{
+    color:rgb(191, 24, 191);
+    background-color: rgb(89, 212, 249);
+    border: 3px solid black;
+    border-radius:20%;
+}
+#b{
+    color:rgb(143, 174, 21);
+}
+h2{
+    font-size: 1.75em;
+    max-height: 70px;
+}
+.btn{
+    height: 230px;
+    width: 230px;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin: 2rem;
+}
+.btn_container{
+    display: flex;
+    justify-content: center;
+}
+
+.red{
+    background-color: rgb(201, 14, 14);
+    border-top-left-radius: 140%;
+}
+.yellow{
+    background-color: rgb(238, 242, 28);
+    border-bottom-left-radius: 140%;
+}
+.green{
+    background-color: rgb(85, 209, 32);
+    border-top-right-radius: 140%;
+}
+.purple{
+    background-color: rgb(191, 24, 191);
+    border-bottom-right-radius: 140%;
+}
+.red.flash {
+    background-color: rgb(255, 141, 141);
+}
+
+.yellow.flash {
+    background-color: rgb(255, 255, 158);
+}
+
+.green.flash {
+    background-color: rgb(157, 248, 157);
+}
+
+.purple.flash {
+    background-color: rgb(255, 153, 255);
+}
