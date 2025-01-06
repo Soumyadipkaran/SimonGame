@@ -27,4 +27,4 @@ The Simon Game is a classic memory challenge where players replicate an ever-gro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simon-game.git
+   https://github.com/Soumyadipkaran/SimonGame.git
